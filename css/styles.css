@@ -1,5 +1,9 @@
 img.profile-pic{
     border:5px;
     border-color: grey;
-    border-radius: 75px;
+    border-radius: 100px;
+}
+
+.header{
+    background-color: coral;
 }
