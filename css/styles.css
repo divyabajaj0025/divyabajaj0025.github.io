@@ -7,3 +7,7 @@ img.profile-pic{
 .header{
     background-color: coral;
 }
+
+.conference{
+    font-style: italic;
+}
